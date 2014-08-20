@@ -1,32 +1,32 @@
-# **½õĞåÌ«Ô­³Ç Android ¿Í»§¶Ë** #
+# **é”¦ç»£å¤ªåŸåŸ Android å®¢æˆ·ç«¯** #
 
-ÏÂÃæ½«¼òµ¥µÄ½âÎöÏÂÏîÄ¿£º
+ä¸‹é¢å°†ç®€å•çš„è§£æä¸‹é¡¹ç›®ï¼š
 
-**1¡¢srcÄ¿Â¼**
-srcÄ¿Â¼ÓÃÓÚ´æ·ÅÏîÄ¿µÄ°ü¼°javaÔ´ÂëÎÄ¼ş¡£
+**1ã€srcç›®å½•**
+srcç›®å½•ç”¨äºå­˜æ”¾é¡¹ç›®çš„åŒ…åŠjavaæºç æ–‡ä»¶ã€‚
 
-ÏÂÃæÊÇsrcÄ¿Â¼µÄ×ÓÄ¿Â¼£º
+ä¸‹é¢æ˜¯srcç›®å½•çš„å­ç›®å½•ï¼š
 > src
-> ©À com.taiyuancity.adapter
-> ©À com.taiyuancity.app
-> ©À com.taiyuancity.bean
-> ©À com.taiyuancity.dao
-> ©À com.taiyuancity.ui
-> ©À com.taiyuancity.util
-> ©À com.taiyuancity.widget
+> â”œ com.taiyuancity.adapter
+> â”œ com.taiyuancity.app
+> â”œ com.taiyuancity.bean
+> â”œ com.taiyuancity.dao
+> â”œ com.taiyuancity.ui
+> â”œ com.taiyuancity.util
+> â”œ com.taiyuancity.widget
 
-¹¦ÄÜËµÃ÷:
-- com.taiyuancity.adapter ¡ª ÁĞ±í¡¢Íø¸ñµÈÊÊÅäÆ÷°ü
-- com.taiyuancity.app ¡ª ´æ´¢°üÓ¦ÓÃ³ÌĞòÆô¶¯¡¢ÅäÖÃµÈ
-- com.taiyuancity.bean ¡ª ÊµÌå°ü
-- com.taiyuancity.dao ¡ª Êı¾İ¿â
-- com.taiyuancity.ui ¡ª ½çÃæ°üÓëactivity
-- com.taiyuancity.util ¡ª ¹¤¾ß°ü
-- com.taiyuancity.widget ¡ª ×Ô¶¨Òå¿Ø¼ş°ü
-
-
-**2¡¢ÆäËûËµÃ÷**
+åŠŸèƒ½è¯´æ˜:
+- com.taiyuancity.adapter â€” åˆ—è¡¨ã€ç½‘æ ¼ç­‰é€‚é…å™¨åŒ…
+- com.taiyuancity.app â€” å­˜å‚¨åŒ…åº”ç”¨ç¨‹åºå¯åŠ¨ã€é…ç½®ç­‰
+- com.taiyuancity.bean â€” å®ä½“åŒ…
+- com.taiyuancity.dao â€” æ•°æ®åº“
+- com.taiyuancity.ui â€” ç•Œé¢åŒ…ä¸activity
+- com.taiyuancity.util â€” å·¥å…·åŒ…
+- com.taiyuancity.widget â€” è‡ªå®šä¹‰æ§ä»¶åŒ…
 
 
+**2ã€å…¶ä»–è¯´æ˜**
 
-2013/2/22 -------------------------É½Î÷´óÑ§, 2010241060ĞìÄÜ
+
+
+2013/2/22 ----------------------  å¾èƒ½
