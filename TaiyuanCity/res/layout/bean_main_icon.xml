@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!-- 这里ImageView设置的都是包裹内容，设置固定大小更美观 -->
+    <ImageView 
+        android:id="@+id/mainIcon_iconImage"
+       android:layout_width="wrap_content"
+        android:layout_height="90dp" 
+        android:padding="10dp"
+        android:scaleType="fitXY"/>
+    <TextView
+        android:id="@+id/mainIcon_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textColor="#000"/>
+
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:background="@drawable/top_child" >
+
+    <TextView
+        android:id="@+id/child_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:singleLine="true"
+        android:text="@string/lcty_1"
+        android:textColor="#FFF"
+        android:textSize="25sp" />
+
+    <!-- 2个按钮 -->
+
+    <ImageButton
+        android:id="@+id/child_head_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/child_title"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/head_back" />
+
+    <ImageButton
+        android:id="@+id/child_head_favorite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/child_head_back"
+        android:background="@drawable/head_favorite" />
+
+</RelativeLayout>

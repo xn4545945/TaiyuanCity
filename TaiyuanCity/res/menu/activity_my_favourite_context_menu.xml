@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_my_favourite_context_no"
+        android:orderInCategory="100"
+        android:title="@string/menu_my_favourite_context_no"/>
+
+</menu>

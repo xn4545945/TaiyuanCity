@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFD"
+    android:orientation="vertical" >
+
+    <!-- top -->
+
+    <include
+        android:id="@+id/top"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        layout="@layout/public_child_header" />
+
+    <!-- pic , 第二张用lcty_pic_1_1 -->
+
+    <ImageView
+        android:id="@+id/child_pic"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        />
+
+    <!-- text -->
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbarStyle="outsideInset"
+        android:scrollbars="vertical" >
+
+        <TextView
+            android:id="@+id/child_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingMultiplier="1.2"
+            android:paddingLeft="15dp"
+            android:paddingTop="13dp"
+            android:textColor="#003"
+            android:textSize="16sp" />
+    </ScrollView>
+
+</LinearLayout>

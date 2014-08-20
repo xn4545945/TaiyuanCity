@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_my_collection"
+        android:orderInCategory="100"
+        android:title="@string/menu_my_favourite"/>
+    <item
+        android:id="@+id/menu_about"
+        android:orderInCategory="100"
+        android:title="@string/menu_about"/>
+
+</menu>
