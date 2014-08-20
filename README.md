@@ -36,13 +36,21 @@ src目录用于存放项目的包及java源码文件。
 
 下面是src目录的子目录：
 > src
+
 > ├ com.taiyuancity.adapter
+
 > ├ com.taiyuancity.app
+
 > ├ com.taiyuancity.bean
+
 > ├ com.taiyuancity.dao
+
 > ├ com.taiyuancity.ui
+
 > ├ com.taiyuancity.util
+
 > ├ com.taiyuancity.widget
+
 
 功能说明:
 - com.taiyuancity.adapter — 列表、网格等适配器包
