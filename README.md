@@ -53,13 +53,13 @@ src目录用于存放项目的包及java源码文件。
 
 
 功能说明:
-- com.taiyuancity.adapter — 列表、网格等适配器包
+- com.taiyuancity.adapter — 列表、网格等适配器包（主页网格、收藏列表适配器）
 - com.taiyuancity.app — 存储包应用程序启动、配置等
-- com.taiyuancity.bean — 实体包
-- com.taiyuancity.dao — 数据库
-- com.taiyuancity.ui — 界面包与activity
-- com.taiyuancity.util — 工具包
-- com.taiyuancity.widget — 自定义控件包
+- com.taiyuancity.bean — 实体包（主页网格实体模型，收藏列表实体模型）
+- com.taiyuancity.dao — 数据库（对应收藏与取消收藏用到）
+- com.taiyuancity.ui — 界面包与activity（各种Activity）
+- com.taiyuancity.util — 工具包 （摇一摇用到的随机函数，监听加速器检查摇动）
+- com.taiyuancity.widget — 自定义控件包（自定义首次启动时的展示画面的scroll控件）
 
 
 ===============================================================
