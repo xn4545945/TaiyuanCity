@@ -1,5 +1,7 @@
 TaiyuanCity
 ===========
+介绍：
+http://blog.csdn.net/xn4545945/article/details/38788677
 
 An Android App，Base on Android 2.3.3。
 
